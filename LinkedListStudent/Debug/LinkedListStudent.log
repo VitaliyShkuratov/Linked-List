@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LinkedListStudent.vcxproj, LinkedListBooks.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BooksManagement.cpp
+c:\users\admin\desktop\vitaliy\progect c++\linkedlistbooks_2_0\linkedliststudent\booksmanagement.cpp(351): warning C4715: 'remove_book_between': not all control paths return a value
+c:\users\admin\desktop\vitaliy\progect c++\linkedlistbooks_2_0\linkedliststudent\booksmanagement.cpp(248): warning C4715: 'add_book_between': not all control paths return a value
+c:\users\admin\desktop\vitaliy\progect c++\linkedlistbooks_2_0\linkedliststudent\booksmanagement.cpp(191): warning C4715: 'add_book_tail': not all control paths return a value
+c:\users\admin\desktop\vitaliy\progect c++\linkedlistbooks_2_0\linkedliststudent\booksmanagement.cpp(143): warning C4715: 'add_book_head': not all control paths return a value
+  LinkedListStudent.vcxproj -> C:\Users\Admin\Desktop\Vitaliy\Progect C++\LinkedListBooks_2_0\Debug\LinkedListBooks_2_0.exe
+  LinkedListStudent.vcxproj -> C:\Users\Admin\Desktop\Vitaliy\Progect C++\LinkedListBooks_2_0\Debug\LinkedListBooks_2_0.pdb (Full PDB)
